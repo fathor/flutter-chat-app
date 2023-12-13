@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "780839447165",
+    "project_id": "chat-app-d17ce",
+    "storage_bucket": "chat-app-d17ce.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:780839447165:android:aa6e4bc37311cac94a1f14",
+        "android_client_info": {
+          "package_name": "com.onkz.chatApp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "780839447165-l4f6vprgjchl2icel2g9peb23j9vavbi.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBrKwIfwdfkNNhFKEw4v-29zWlpBXGLkNI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "780839447165-l4f6vprgjchl2icel2g9peb23j9vavbi.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
